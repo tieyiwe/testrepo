@@ -2,6 +2,6 @@
 
 I am getting good at programming.
 
-I also buidling something great!
+I am also buidling something great!
 
 Alright!
