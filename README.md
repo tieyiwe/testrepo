@@ -7,3 +7,5 @@ I am also buidling something great!
 Alright!
 
 Click here
+## Learning commands
+ trying few commands
