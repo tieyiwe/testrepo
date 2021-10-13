@@ -13,4 +13,4 @@ Click here
 
 ## Local development
 
-adding things to this branch
+1- open you the index.html file on your browser
