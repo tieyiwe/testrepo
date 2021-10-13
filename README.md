@@ -10,3 +10,7 @@ Click here
 ## Learning commands
  trying few commands
  ### Created a new folder to practice the same thing
+
+## Local development
+
+1- open you the index.html file on your browser
